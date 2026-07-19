@@ -27,7 +27,15 @@
 
     <h2>Modo de Preparação</h2>
     <ol>
-       
+
+
+
+
+
+
+    
+        <li>Deixe cozinhar em lume brando durante 20 minutos.</li>
+        <li>Sirva quente e decore com salsa picada.</li>
     </ol>
 
     <h2>Tempo de Preparação</h2>
