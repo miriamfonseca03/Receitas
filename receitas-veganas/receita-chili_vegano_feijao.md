@@ -26,9 +26,11 @@
     </ul>
 
     <h2>Modo de Preparação</h2>
+    <ol>
+        <li>Aqueça o azeite numa panela em lume médio.</li>
+        <li>Refogue a cebola e o alho até ficarem dourados.</li>
         <li>Adicione o pimento e cozinhe durante cerca de 5 minutos.</li>
         <li>Junte o tomate pelado e mexa bem.</li>
-       
     </ol>
 
     <h2>Tempo de Preparação</h2>
