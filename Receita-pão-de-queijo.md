@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Pão de Queijo Mineiro Tradicional</title>
+  <title>Pão de Queijode Minas Tradicional</title>
   <style>
     :root {
       --bg: #fff8e8;
