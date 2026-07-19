@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <title>Bolo de Cenoura</title>
+</head>
+<body>
+  <h1>Bolo de Cenoura</h1>
+
+  <h2>Ingredientes</h2>
+  <ul>
+    <li>3 cenouras médias</li>
+    <li>4 ovos</li>
+    <li>1 chávena de óleo</li>
+    <li>2 chávenas de açúcar</li>
+    <li>2 e 1/2 chávenas de farinha</li>
+    <li>1 colher de sopa de fermento em pó</li>
+  </ul>
+
+  <h2>Cobertura</h2>
+  <ul>
+    <li>4 colheres de sopa de manteiga</li>
+    <li>4 colheres de sopa de cacau em pó</li>
+    <li>1 chávena de açúcar</li>
+    <li>1 chávena de leite</li>
+  </ul>
+
+  <h2>Modo de preparação</h2>
+  <ol>
+    <li>Bata no liquidificador as cenouras, os ovos e o óleo até ficar homogéneo.</li>
+    <li>Numa tigela, misture a farinha e o açúcar.</li>
+    <li>Junte o líquido batido aos secos e mexa bem.</li>
+    <li>Adicione o fermento por último e misture delicadamente.</li>
+    <li>Coloque numa forma untada e leve ao forno pré-aquecido a 180 graus durante 40 minutos.</li>
+    <li>Para a cobertura, leve todos os ingredientes ao lume até engrossar.</li>
+    <li>Despeje a cobertura sobre o bolo ainda morno.</li>
+  </ol>
+</body>
+</html>
