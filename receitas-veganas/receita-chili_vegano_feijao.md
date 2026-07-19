@@ -29,6 +29,10 @@
     <ol>
         <li>Aqueça o azeite numa panela em lume médio.</li>
         <li>Refogue a cebola e o alho até ficarem dourados.</li>
+
+
+        <li>Adicione o feijão, a paprika e os cominhos.</li>
+        <li>Tempere com sal e pimenta a gosto.</li>
     </ol>
 
     <h2>Tempo de Preparação</h2>
