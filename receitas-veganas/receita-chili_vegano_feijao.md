@@ -38,7 +38,8 @@
     </ol>
 
     <h2>Tempo de Preparação</h2>
-    
+    <p><strong>Preparação:</strong> 10 minutos</p>
+    <p><strong>Cozedura:</strong> 20 minutos</p>
 
     <h2>Dica</h2>
     <p>Sirva acompanhado de arroz branco, quinoa ou pão torrado.</p>
