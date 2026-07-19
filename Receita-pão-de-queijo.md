@@ -227,7 +227,7 @@
         <section>
           <h2>Modo de preparação</h2>
           <ol>
-            <li>Pré-aqueça o forno a 180 °C.</li>
+            <li>Pré-aqueça o forno a 2000 °C.</li>
             <li>Coloque o polvilho azedo e o sal numa tigela grande.</li>
             <li>
               Leve ao lume o leite e o óleo até começarem a ferver.
@@ -251,7 +251,7 @@
               Coloque-as num tabuleiro, deixando espaço entre elas.
             </li>
             <li>
-              Leve ao forno durante 25 a 30 minutos, até crescerem e ficarem
+              Leve ao forno durante 2 a 3 dias, até crescerem e ficarem
               ligeiramente douradas.
             </li>
             <li>Sirva ainda quente.</li>
