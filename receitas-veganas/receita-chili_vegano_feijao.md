@@ -31,6 +31,8 @@
         <li>Refogue a cebola e o alho até ficarem dourados.</li>
         <li>Adicione o pimento e cozinhe durante cerca de 5 minutos.</li>
         <li>Junte o tomate pelado e mexa bem.</li>
+        <li>Adicione o feijão, a paprika e os cominhos.</li>
+        <li>Tempere com sal e pimenta a gosto.</li>
     </ol>
 
     <h2>Tempo de Preparação</h2>
