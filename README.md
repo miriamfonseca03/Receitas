@@ -12,11 +12,11 @@ Este projeto tem como objetivo criar uma página colaborativa com receitas compa
 
 
 ## Integrantes
-- Eline Matos
 - Daniel Teixeira
+- Eline Matos
+- Geovana Mendes
 - Joaquim  Duarte
 - Miriam Fonseca
-- Geovana Mendes
 
 ## Descrição
 Os integrantes devem adicionar receitas em arquivos markdown ou HTML, utilizando boas práticas de versionamento com Git e GitHub.
