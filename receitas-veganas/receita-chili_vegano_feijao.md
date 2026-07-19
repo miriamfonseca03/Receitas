@@ -32,7 +32,9 @@
         <li>Adicione o pimento e cozinhe durante cerca de 5 minutos.</li>
         <li>Junte o tomate pelado e mexa bem.</li>
         <li>Adicione o feijão, a paprika e os cominhos.</li>
-        <li>Tempere com sal e pimenta a gosto.</li>
+        <li>Tempere com sal e pimenta a gosto.</li> 
+        <li>Deixe cozinhar em lume brando durante 20 minutos.</li>
+        <li>Sirva quente e decore com salsa picada.</li>
     </ol>
 
     <h2>Tempo de Preparação</h2>
