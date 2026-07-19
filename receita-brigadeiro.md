@@ -8,7 +8,7 @@
 </head>
 <body>
 
-    <h1>Brigadeiro</h1>
+    <h1>Brigadeirasso</h1>
     <p>Um docinho clássico, feito com leite condensado, chocolate em pó e manteiga.</p>
 
     <img src="brigadeiro.jpg" alt="Brigadeiro enrolado em granulado de chocolate">
