@@ -278,7 +278,3 @@ html = """<!DOCTYPE html>
 </body>
 </html>
 """
-
-path = Path("/mnt/data/receita_pao_de_queijo_mineiro.html")
-path.write_text(html, encoding="utf-8")
-print(path)
